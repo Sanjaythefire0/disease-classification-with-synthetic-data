@@ -2,7 +2,7 @@
 
 ## Overview
 Brain tumor detection is a critical application of AI in healthcare. This project leverages deep learning to classify brain MRI scans and utilizes synthetic data generation to improve model performance. By augmenting datasets, the model achieves better accuracy and generalization.
-
+jhsdkfhkdfhjkjfhhskfhkjsdfhjkfhksja
 ## Installation
 1. Clone the repository:
    ```bash
